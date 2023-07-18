@@ -1,0 +1,4 @@
+userID,username,password,isAdmin
+1,admin,$2b$10$vqH7k0FrZiC2n651p7xLtuvTUUiA64JBe7oFIs,1
+2,user,$2a$10$LL/JPlj7FaCxzrnT6f310uNHf5ajEu3QyPA5DziVZDSQQpTGxR3AG,0
+0,,,0

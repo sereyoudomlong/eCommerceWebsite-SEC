@@ -1,0 +1,29 @@
+.cartItem{
+
+}
+
+.cartContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.cartItemTextContainer{
+    flex: 1;
+    padding: 2em;
+    text-align: left;
+
+}
+
+.cartItemContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.cartImage {
+    align-self: flex-end;
+    max-width: 150px;
+    max-height: 150px;
+}
